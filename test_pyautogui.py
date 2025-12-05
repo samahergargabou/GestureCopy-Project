@@ -3,7 +3,7 @@
 import time
 import pyautogui
 
-print("You have 5 seconds to focus a text field (e.g., Notepad) and leave the cursor there...")
+print("You have 10 seconds to focus a text field (e.g., Notepad) and leave the cursor there...")
 time.sleep(10)
 
 print("Typing...")
